@@ -5,6 +5,13 @@ repo: mtc # The name of this repository
 sites:
   - name: Miteco
     url: https://www.miteco.gob.es/
+  - name: PRTR
+    url: https://www.prtr.miteco.gob.es/
+  - name: Albufeira
+    url: https://www.cadc-albufeira.eu/
+  - name: RIOCC
+    url: https://www.lariocc.es/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
