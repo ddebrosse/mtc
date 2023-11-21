@@ -11,10 +11,6 @@ sites:
     url: https://www.cadc-albufeira.eu/
   - name: RIOCC
     url: https://www.lariocc.es/
-  - name: Author Prod
-    url: https://author-miteco-prod.adobecqms.net/aem/start.html
-  - name: Author Stage
-    url: https://author-miteco-stage.adobecqms.net/aem/start.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
