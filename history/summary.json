@@ -63,19 +63,19 @@
     "url": "https://www.lariocc.es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lariocc.es.ico",
     "slug": "riocc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 1177,
-    "timeWeek": 1024,
+    "time": 821,
+    "timeDay": 1106,
+    "timeWeek": 1026,
     "timeMonth": 1011,
-    "timeYear": 820,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2024-01-24": 0
+      "2024-01-24": 5
     }
   }
 ]
