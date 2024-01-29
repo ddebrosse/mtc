@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 1070,
+    "time": 1204,
+    "timeDay": 1426,
     "timeWeek": 1185,
-    "timeMonth": 1307,
-    "timeYear": 1202,
+    "timeMonth": 1302,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2023-10-19": 8
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.prtr.miteco.gob.es.ico",
     "slug": "prtr",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1226,
-    "timeDay": 1069,
-    "timeWeek": 1483,
-    "timeMonth": 1332,
-    "timeYear": 1226,
+    "uptimeYear": "99.97%",
+    "time": 1227,
+    "timeDay": 1355,
+    "timeWeek": 1527,
+    "timeMonth": 1330,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2023-11-15": 11,
       "2023-10-19": 45
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 985,
-    "timeWeek": 972,
-    "timeMonth": 1021,
-    "timeYear": 922,
+    "time": 914,
+    "timeDay": 59,
+    "timeWeek": 864,
+    "timeMonth": 983,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 597,
-    "timeWeek": 807,
-    "timeMonth": 965,
-    "timeYear": 814,
+    "time": 808,
+    "timeDay": 174,
+    "timeWeek": 718,
+    "timeMonth": 931,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2024-01-24": 5
     }
