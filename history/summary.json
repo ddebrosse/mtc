@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.prtr.miteco.gob.es.ico",
     "slug": "prtr",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.96%",
     "time": 1224,
     "timeDay": 1093,
     "timeWeek": 1156,
     "timeMonth": 1313,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2024-02-02": 1,
+      "2024-02-02": 6,
       "2023-11-15": 11,
       "2023-10-19": 45
     }
@@ -46,10 +46,10 @@
     "url": "https://www.cadc-albufeira.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cadc-albufeira.eu.ico",
     "slug": "albufeira",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
@@ -57,7 +57,9 @@
     "timeWeek": 773,
     "timeMonth": 961,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-02": 2
+    }
   },
   {
     "name": "RIOCC",
@@ -65,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lariocc.es.ico",
     "slug": "riocc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 831,
     "timeDay": 518,
     "timeWeek": 946,
     "timeMonth": 983,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-02-02": 0,
+      "2024-02-02": 5,
       "2024-01-24": 5
     }
   }
