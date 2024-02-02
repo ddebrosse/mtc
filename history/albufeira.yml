@@ -1,7 +1,7 @@
 url: https://www.cadc-albufeira.eu/
-status: up
-code: 200
-responseTime: 4321
-lastUpdated: 2024-02-02T17:56:54.318Z
+status: down
+code: 502
+responseTime: 446
+lastUpdated: 2024-02-02T18:25:25.377Z
 startTime: 2023-10-09T08:23:31.512Z
 generator: Upptime <https://github.com/upptime/upptime>
