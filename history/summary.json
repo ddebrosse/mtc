@@ -26,9 +26,9 @@
     "slug": "prtr",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 1224,
     "timeDay": 1093,
@@ -36,7 +36,7 @@
     "timeMonth": 1313,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2024-02-02": 39,
+      "2024-02-02": 46,
       "2023-11-15": 11,
       "2023-10-19": 45
     }
@@ -46,19 +46,19 @@
     "url": "https://www.cadc-albufeira.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cadc-albufeira.eu.ico",
     "slug": "albufeira",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 1779,
-    "timeWeek": 1131,
-    "timeMonth": 1047,
-    "timeYear": 938,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 936,
+    "timeDay": 1486,
+    "timeWeek": 1079,
+    "timeMonth": 1034,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2024-02-02": 6
+      "2024-02-02": 12
     }
   },
   {
